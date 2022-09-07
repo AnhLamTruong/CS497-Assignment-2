@@ -36,10 +36,10 @@ x = 51
 print(Solution.shortestSubarray(Solution,arr1,x))
 arr2 = [1]
 x1 = 1
-print(Solution.shortestSubarray(Solution,arr1,x))
+print(Solution.shortestSubarray(Solution,arr2,x1))
 arr3 = [1,2]
 x2 = 4
-print(Solution.shortestSubarray(Solution,arr1,x))
+print(Solution.shortestSubarray(Solution,arr3,x2))
 arr4 = [2,-1,2]
 x3 = 3
-print(Solution.shortestSubarray(Solution,arr1,x))
+print(Solution.shortestSubarray(Solution,arr4,x3))
